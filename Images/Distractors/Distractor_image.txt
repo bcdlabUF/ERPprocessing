@@ -1,0 +1,3 @@
+d4.bmp
+Dory.bmp
+Nemo.bmp
